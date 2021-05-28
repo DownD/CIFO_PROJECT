@@ -1,3 +1,3 @@
-# CIFO_PROJECT
+# Snake Game
 Project for CIFO class.<br>
-A snake agent implemented using Neural Networks and Genetic Algorithms.
+An agent implemented using Neural Networks where the weights were trained by Genetic Algorithms that solves.<br>
