@@ -1,0 +1,501 @@
+
+
+Generation 0
+Best Fitness 229.4
+Average Fitness 16.609
+Time Process 14.825915813446045
+
+Generation 1
+Best Fitness 280.0
+Average Fitness 48.24899999999999
+Time Process 12.388930797576904
+
+Generation 2
+Best Fitness 357.6
+Average Fitness 85.53100000000002
+Time Process 16.816465139389038
+
+Generation 3
+Best Fitness 377.8
+Average Fitness 102.38900000000004
+Time Process 17.818421125411987
+
+Generation 4
+Best Fitness 525.6
+Average Fitness 118.62600000000008
+Time Process 19.413132190704346
+
+Generation 5
+Best Fitness 1636.8
+Average Fitness 102.638
+Time Process 16.684491634368896
+
+Generation 6
+Best Fitness 2678.4
+Average Fitness 328.81600000000003
+Time Process 35.333181381225586
+
+Generation 7
+Best Fitness 3501.6
+Average Fitness 1107.3229999999992
+Time Process 103.24242949485779
+
+Generation 8
+Best Fitness 3876.4
+Average Fitness 1122.6679999999997
+Time Process 106.43927955627441
+
+Generation 9
+Best Fitness 4074.8
+Average Fitness 1577.3479999999993
+Time Process 151.27171206474304
+
+Generation 10
+Best Fitness 3975.3999999999996
+Average Fitness 1504.0389999999998
+Time Process 140.44508528709412
+
+Generation 11
+Best Fitness 3934.6000000000004
+Average Fitness 1414.0360000000007
+Time Process 138.24733591079712
+
+Generation 12
+Best Fitness 3097.2
+Average Fitness 1529.6649999999997
+Time Process 156.4964644908905
+
+Generation 13
+Best Fitness 3730.4
+Average Fitness 1432.1890000000003
+Time Process 130.56981110572815
+
+Generation 14
+Best Fitness 3715.2
+Average Fitness 1580.1020000000003
+Time Process 141.2909779548645
+
+Generation 15
+Best Fitness 3255.2
+Average Fitness 1190.5070000000003
+Time Process 109.11987090110779
+
+Generation 16
+Best Fitness 3686.6
+Average Fitness 1115.457
+Time Process 104.92904043197632
+
+Generation 17
+Best Fitness 4225.6
+Average Fitness 1384.6009999999994
+Time Process 121.29175138473511
+
+Generation 18
+Best Fitness 3411.2
+Average Fitness 1592.0829999999996
+Time Process 148.5252649784088
+
+Generation 19
+Best Fitness 3335.8
+Average Fitness 965.1089999999995
+Time Process 87.29553723335266
+
+Generation 20
+Best Fitness 4411.8
+Average Fitness 1263.6100000000001
+Time Process 112.24168133735657
+
+Generation 21
+Best Fitness 4391.4
+Average Fitness 1743.2360000000006
+Time Process 160.03682684898376
+
+Generation 22
+Best Fitness 3389.6
+Average Fitness 1692.644000000001
+Time Process 154.78205633163452
+
+Generation 23
+Best Fitness 3621.0
+Average Fitness 2094.031999999999
+Time Process 183.85832357406616
+
+Generation 24
+Best Fitness 3893.0
+Average Fitness 1527.9159999999997
+Time Process 142.90036964416504
+
+Generation 25
+Best Fitness 4235.2
+Average Fitness 1728.6650000000006
+Time Process 158.80758810043335
+
+Generation 26
+Best Fitness 3736.2
+Average Fitness 1311.813
+Time Process 117.79963493347168
+
+Generation 27
+Best Fitness 3927.8
+Average Fitness 1753.2720000000004
+Time Process 162.60382795333862
+
+Generation 28
+Best Fitness 3654.8
+Average Fitness 1270.3140000000003
+Time Process 114.9329297542572
+
+Generation 29
+Best Fitness 3590.2
+Average Fitness 1352.9109999999998
+Time Process 123.94140791893005
+
+Generation 30
+Best Fitness 3753.6
+Average Fitness 1736.9819999999986
+Time Process 160.83492708206177
+
+Generation 31
+Best Fitness 4440.0
+Average Fitness 1169.0560000000003
+Time Process 104.89648056030273
+
+Generation 32
+Best Fitness 4109.0
+Average Fitness 1539.0379999999998
+Time Process 137.90964651107788
+
+Generation 33
+Best Fitness 4004.8
+Average Fitness 1464.8069999999996
+Time Process 136.29976725578308
+
+Generation 34
+Best Fitness 3449.4
+Average Fitness 1645.4949999999992
+Time Process 149.07161021232605
+
+Generation 35
+Best Fitness 3682.2
+Average Fitness 1226.782
+Time Process 112.25419187545776
+
+Generation 36
+Best Fitness 3817.4
+Average Fitness 1452.072
+Time Process 132.79454731941223
+
+Generation 37
+Best Fitness 4407.0
+Average Fitness 1453.276000000001
+Time Process 136.08960914611816
+
+Generation 38
+Best Fitness 3882.8
+Average Fitness 1582.122
+Time Process 141.12924909591675
+
+Generation 39
+Best Fitness 4601.4
+Average Fitness 1692.2850000000003
+Time Process 152.41735768318176
+
+Generation 40
+Best Fitness 4228.0
+Average Fitness 1860.5810000000001
+Time Process 169.94749999046326
+
+Generation 41
+Best Fitness 4625.799999999999
+Average Fitness 1555.9619999999995
+Time Process 141.63430333137512
+
+Generation 42
+Best Fitness 4424.4
+Average Fitness 1248.1430000000003
+Time Process 110.92995309829712
+
+Generation 43
+Best Fitness 4420.8
+Average Fitness 2213.5530000000003
+Time Process 201.31061434745789
+
+Generation 44
+Best Fitness 4690.400000000001
+Average Fitness 2341.07
+Time Process 203.8927047252655
+
+Generation 45
+Best Fitness 4682.8
+Average Fitness 2242.848000000001
+Time Process 204.17456436157227
+
+Generation 46
+Best Fitness 4519.8
+Average Fitness 1877.9369999999994
+Time Process 169.46455764770508
+
+Generation 47
+Best Fitness 5050.599999999999
+Average Fitness 2309.7570000000023
+Time Process 205.11311221122742
+
+Generation 48
+Best Fitness 4133.6
+Average Fitness 2239.551
+Time Process 206.60274648666382
+
+Generation 49
+Best Fitness 4245.6
+Average Fitness 2210.7959999999994
+Time Process 202.89942383766174
+
+Generation 50
+Best Fitness 4352.799999999999
+Average Fitness 2234.5280000000002
+Time Process 198.01824235916138
+
+Generation 51
+Best Fitness 4911.2
+Average Fitness 1878.0260000000007
+Time Process 169.92926955223083
+
+Generation 52
+Best Fitness 4861.6
+Average Fitness 1314.846000000001
+Time Process 117.75681018829346
+
+Generation 53
+Best Fitness 4322.2
+Average Fitness 2066.4770000000003
+Time Process 184.7119369506836
+
+Generation 54
+Best Fitness 4589.2
+Average Fitness 2492.0640000000003
+Time Process 226.7992181777954
+
+Generation 55
+Best Fitness 4874.4
+Average Fitness 1885.1960000000015
+Time Process 173.7609167098999
+
+Generation 56
+Best Fitness 4293.8
+Average Fitness 2260.3850000000007
+Time Process 198.92537641525269
+
+Generation 57
+Best Fitness 4988.2
+Average Fitness 1681.0969999999998
+Time Process 153.1547338962555
+
+Generation 58
+Best Fitness 4137.8
+Average Fitness 1500.2630000000013
+Time Process 137.98020386695862
+
+Generation 59
+Best Fitness 5499.8
+Average Fitness 2006.854999999999
+Time Process 179.55275797843933
+
+Generation 60
+Best Fitness 5269.4
+Average Fitness 1427.3380000000004
+Time Process 130.60702466964722
+
+Generation 61
+Best Fitness 4823.6
+Average Fitness 1762.8609999999999
+Time Process 166.54056859016418
+
+Generation 62
+Best Fitness 5121.2
+Average Fitness 1858.3990000000003
+Time Process 161.51794934272766
+
+Generation 63
+Best Fitness 4943.8
+Average Fitness 1779.1810000000003
+Time Process 158.16703081130981
+
+Generation 64
+Best Fitness 5181.4
+Average Fitness 1995.6070000000009
+Time Process 180.15138840675354
+
+Generation 65
+Best Fitness 5018.6
+Average Fitness 1732.4229999999995
+Time Process 151.7259624004364
+
+Generation 66
+Best Fitness 4654.2
+Average Fitness 1912.7679999999996
+Time Process 174.87358808517456
+
+Generation 67
+Best Fitness 4504.2
+Average Fitness 2363.413
+Time Process 213.83393692970276
+
+Generation 68
+Best Fitness 4378.6
+Average Fitness 1766.869
+Time Process 158.2508225440979
+
+Generation 69
+Best Fitness 4314.8
+Average Fitness 1453.8699999999997
+Time Process 131.59411120414734
+
+Generation 70
+Best Fitness 4473.2
+Average Fitness 2481.9990000000007
+Time Process 222.84498047828674
+
+Generation 71
+Best Fitness 4556.0
+Average Fitness 2310.205000000001
+Time Process 204.06117033958435
+
+Generation 72
+Best Fitness 4374.0
+Average Fitness 1922.4279999999997
+Time Process 177.29868626594543
+
+Generation 73
+Best Fitness 4717.2
+Average Fitness 1540.1280000000002
+Time Process 140.56935262680054
+
+Generation 74
+Best Fitness 4400.799999999999
+Average Fitness 2368.946
+Time Process 205.44368433952332
+
+Generation 75
+Best Fitness 4741.0
+Average Fitness 2449.853
+Time Process 223.08554601669312
+
+Generation 76
+Best Fitness 4364.2
+Average Fitness 2636.801000000002
+Time Process 239.9685823917389
+
+Generation 77
+Best Fitness 4739.0
+Average Fitness 1862.3429999999996
+Time Process 162.28253173828125
+
+Generation 78
+Best Fitness 4750.0
+Average Fitness 2340.1679999999997
+Time Process 213.26854705810547
+
+Generation 79
+Best Fitness 5254.8
+Average Fitness 2373.8160000000003
+Time Process 223.04355907440186
+
+Generation 80
+Best Fitness 4799.4
+Average Fitness 2466.41
+Time Process 214.35467529296875
+
+Generation 81
+Best Fitness 4660.8
+Average Fitness 1975.3269999999995
+Time Process 182.26273775100708
+
+Generation 82
+Best Fitness 4724.2
+Average Fitness 2733.438
+Time Process 245.0037305355072
+
+Generation 83
+Best Fitness 5082.8
+Average Fitness 2510.158999999999
+Time Process 222.1443166732788
+
+Generation 84
+Best Fitness 4360.8
+Average Fitness 1587.566
+Time Process 143.67278814315796
+
+Generation 85
+Best Fitness 4693.4
+Average Fitness 2099.0880000000006
+Time Process 191.46620345115662
+
+Generation 86
+Best Fitness 4713.0
+Average Fitness 2731.0879999999993
+Time Process 239.42782020568848
+
+Generation 87
+Best Fitness 4659.6
+Average Fitness 2037.7260000000003
+Time Process 188.79084539413452
+
+Generation 88
+Best Fitness 4596.8
+Average Fitness 1522.2579999999998
+Time Process 143.45678544044495
+
+Generation 89
+Best Fitness 4608.400000000001
+Average Fitness 1859.1559999999997
+Time Process 163.30768871307373
+
+Generation 90
+Best Fitness 4974.4
+Average Fitness 2390.5860000000002
+Time Process 215.8464171886444
+
+Generation 91
+Best Fitness 4791.4
+Average Fitness 2549.8309999999997
+Time Process 231.82816171646118
+
+Generation 92
+Best Fitness 4487.0
+Average Fitness 1646.2529999999997
+Time Process 141.7390398979187
+
+Generation 93
+Best Fitness 4893.6
+Average Fitness 1396.494
+Time Process 125.17868518829346
+
+Generation 94
+Best Fitness 4479.6
+Average Fitness 2182.4610000000007
+Time Process 200.4599449634552
+
+Generation 95
+Best Fitness 4944.4
+Average Fitness 2346.199
+Time Process 207.6576223373413
+
+Generation 96
+Best Fitness 4935.0
+Average Fitness 2249.330000000001
+Time Process 204.36835312843323
+
+Generation 97
+Best Fitness 4540.6
+Average Fitness 2432.3619999999983
+Time Process 222.38046717643738
+
+Generation 98
+Best Fitness 4651.0
+Average Fitness 2349.849999999999
+Time Process 210.78609251976013
+
+Generation 99
+Best Fitness 4485.400000000001
+Average Fitness 1877.3910000000003
+Time Process 172.96992254257202
